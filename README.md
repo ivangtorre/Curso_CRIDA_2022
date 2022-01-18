@@ -1,1 +1,1 @@
-# Curso_CRIDA_2022
+# Notebooks de las sesiones del curso CRIDA 2022
